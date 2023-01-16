@@ -14,4 +14,4 @@ class Task_5Test {
         System.out.println(l1);
     }
 
-} 
+}
